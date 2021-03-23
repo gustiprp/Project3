@@ -1,8 +1,8 @@
-## Aplikasi Sistem Pakar untuk Indentifikasi Penyakit Ibu Hamil Berbasis Android
+## Aplikasi SekolahKu
 
 ## Author
 
-Gusti Putu Rudi Pratama 2020
+Gusti Putu Rudi Pratama 2021
 
 ## Table of Contents
 * [About this Project](#about-this-project)
@@ -10,7 +10,7 @@ Gusti Putu Rudi Pratama 2020
 * [Demo](#demo)
 
 ## About this Project
-Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit dan gangguan kehamilan serta solusi penanganannya. Aplikasi ini dibuat sebagai alternatif selain berkonsultasi atau periksa ke dokter kandungan atau bidan. Aplikasi ini dibuat agar menarik dan praktis untuk digunakan oleh ibu hamil tanpa mengeluarkan biaya.
+Aplikasi ini diharapkan mempermudah Guru/Pegawai Sekolah dalam Manajemen Data/Profile dari Siswa dan Siswi nya. Aplikasi terdapat fitur LogIn, CRUD, dan Search.
 
 ## Technologies
 * Android Studio
