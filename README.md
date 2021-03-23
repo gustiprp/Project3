@@ -14,54 +14,41 @@ Aplikasi berbasis android yang dapat membantu dalam mengidentifikasi penyakit da
 
 ## Technologies
 * Android Studio
-* Java
-* XML
+* Flutter
+* Dart
+* SQLite
 
 ## Demo
-### Awal Masuk Aplikasi :arrow_right: Menu Utama :
+### Splash Screen :
 
-<img src="https://user-images.githubusercontent.com/68157923/105194539-46f52a80-5b6c-11eb-8486-6f9ed7a8acca.gif" width="240" height="460"/>
-
-
-### Identifikasi Penyakit:
-
-<img src="https://user-images.githubusercontent.com/68157923/105194647-62603580-5b6c-11eb-9592-7419aee007af.gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/112142206-da001e80-8c08-11eb-8ef3-08f194cca0a9.gif" width="240" height="460"/>
 
 
-### Hasil Identifikasi :arrow_right: Solusi Penyakit :arrow_right: Menu Utama:
+### Log-In:
 
-<img src="https://user-images.githubusercontent.com/68157923/105195030-c3880900-5b6c-11eb-8a20-9cedd11bf4a5.gif" width="240" height="460"/>
-
-
-### Hasil Identifikasi :arrow_right: Hubungi Bidan:
-
-<img src="https://user-images.githubusercontent.com/68157923/105195242-0ba72b80-5b6d-11eb-9bbe-bdf71deee85f.gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/112142620-690d3680-8c09-11eb-8614-789ea3e3c96e.gif" width="240" height="460"/>
 
 
-### Menu Utama :arrow_right: Tips Kehamilan:
+### Add Data/Profile:
 
-<img src="https://user-images.githubusercontent.com/68157923/105195362-27123680-5b6d-11eb-9ce4-91e055468071.gif" width="240" height="460"/>
-
-
-### Menu Utama :arrow_right: Informasi Kehamilan:
-
-<img src="https://user-images.githubusercontent.com/68157923/105195497-45783200-5b6d-11eb-9e76-248908084ff8.gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/112142631-6ca0bd80-8c09-11eb-92cf-bc445e4a819c.gif" width="240" height="460"/>
 
 
-### Musik:
+### Edit Data/Profile:
 
-<img src="https://user-images.githubusercontent.com/68157923/105195732-7f493880-5b6d-11eb-80b6-fe6bdb0c69c6.gif" width="240" height="460"/>
-
-
-### Hubungi Bidan:
-
-<img src="https://user-images.githubusercontent.com/68157923/105195969-b91a3f00-5b6d-11eb-9922-46e3508eea2b.gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/112142920-c2756580-8c09-11eb-818f-50f43c7f0e1d.gif" width="240" height="460"/>
 
 
-### Tentang:
+### Delete Data/Profile:
 
-<img src="https://user-images.githubusercontent.com/68157923/105196028-c6372e00-5b6d-11eb-96c7-d5f299f8402a.gif" width="240" height="460"/>
+<img src="https://user-images.githubusercontent.com/68157923/112142983-da4ce980-8c09-11eb-941b-204eb5a6f32b.gif" width="240" height="460"/>
 
-### Alert Dialog Exit:
 
-<img src="https://user-images.githubusercontent.com/68157923/105201968-0ac5c800-5b74-11eb-9ca6-4b615e615aec.gif" width="240" height="460"/>
+### Search Data/Profile:
+
+<img src="https://user-images.githubusercontent.com/68157923/112143106-036d7a00-8c0a-11eb-87bd-34a086be5fd4.gif" width="240" height="460"/>
+
+
+### Double Click the Back Button to Exit:
+
+<img src="https://user-images.githubusercontent.com/68157923/112143659-c8b81180-8c0a-11eb-9a06-179bb6cd4bc2.gif" width="240" height="460"/>
