@@ -10,7 +10,7 @@ Gusti Putu Rudi Pratama 2021
 * [Demo](#demo)
 
 ## About this Project
-Aplikasi ini diharapkan mempermudah Guru/Pegawai Sekolah dalam Manajemen Data/Profile dari Siswa dan Siswi nya. Aplikasi terdapat fitur LogIn, CRUD, dan Search.
+Aplikasi ini dapat mempermudah guru/pegawai sekolah dalam manajemen data/profile dari siswa dan siswi nya. Aplikasi ini terdapat fitur LogIn, CRUD, dan Search.
 
 ## Technologies
 * Android Studio
